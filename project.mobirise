@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "russiantrip",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 828,
     "versionPublish": "4.7.2",
@@ -27,7 +27,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
